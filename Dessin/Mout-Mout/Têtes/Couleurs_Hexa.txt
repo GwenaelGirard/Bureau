@@ -1,0 +1,5 @@
+Peau = #C49A6C
+Blanc = #FFFFFF
+Gris Clair = #BDBEC0
+Gris Foncé = #58585A
+Noir = #171214

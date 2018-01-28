@@ -1,0 +1,12 @@
+Sai Version  = 1.0.1
+Win Version  = (null) Service Pack 1
+CPU No.00    = Intel(R) Core(TM) i5-3340M CPU @ 2.70GHz
+CPU No.01    = Intel(R) Core(TM) i5-3340M CPU @ 2.70GHz
+CPU No.02    = Intel(R) Core(TM) i5-3340M CPU @ 2.70GHz
+CPU No.03    = Intel(R) Core(TM) i5-3340M CPU @ 2.70GHz
+WOW64        = Yes
+VA Map Size  = 65536
+Page Size    = 4096
+Total Memory = 4035MB
+Total VAS    = 4095MB
+Avail VAS    = 3457MB

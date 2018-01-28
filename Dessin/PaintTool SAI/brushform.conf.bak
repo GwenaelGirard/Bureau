@@ -1,0 +1,24 @@
+1,blotmap\tx Parasites.bmp
+1,blotmap\tx Bruit.bmp
+1,blotmap\tx Nuage.bmp
+2,elemap\f Circulaire.bmp
+2,elemap\f Amande.bmp
+2,elemap\f Creux.bmp
+2,elemap\f Concentré.bmp
+2,elemap\f Rond 1.bmp
+2,elemap\f Rond 2.bmp
+2,elemap\m Plat.bmp
+2,elemap\m Rond.bmp
+2,elemap\r Plat.bmp
+2,elemap\r Rond 1.bmp
+2,elemap\r Rond 2.bmp
+2,elemap\r Vertical.bmp
+2,elemap\s L.bmp
+2,elemap\s M.bmp
+2,elemap\s R.bmp
+2,elemap\s S.bmp
+2,elemap\Inégale SR.bmp
+2,elemap\xForme Flêche.bmp
+2,elemap\xForme Croix.bmp
+2,elemap\xForme Croix Diss.bmp
+2,elemap\xForme Demi Rond.bmp

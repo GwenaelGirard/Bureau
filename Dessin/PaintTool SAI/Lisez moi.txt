@@ -1,0 +1,2 @@
+Placez les fichiers dans le répertoire principal de paint tool SAI.
+Pensez à faire un backups des fichiers et dossiers qui vont être remplacés.
